@@ -3,6 +3,9 @@
 - Dark/Light mode
 - Live mode charts
 - UI changes
+- Translation - PTBR
+- Change UI color
+- REDO Tabs
 
 # Cleopatra [live demo](https://moesaid.github.io/cleopatra/)
 ### Cleopatra – Clean & Minimal tailwind css Admin Dashboard Template
