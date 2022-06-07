@@ -1,3 +1,9 @@
+# TODO
+- Changelog
+- Dark/Light mode
+- Live mode charts
+- UI changes
+
 # Cleopatra [live demo](https://moesaid.github.io/cleopatra/)
 ### Cleopatra – Clean & Minimal tailwind css Admin Dashboard Template
 
