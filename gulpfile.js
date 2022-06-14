@@ -188,7 +188,6 @@ task(
   task(
     "optamizedBuild",
     series(
-      "clean:build",
       "build-html",
       "dev-styles",
       "build-styles",

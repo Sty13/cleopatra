@@ -22,7 +22,7 @@ module.exports = {
   },
   variants: {},
   plugins: [
-    require('tailwindcss-animate')({
+    require('tailwindcss-animatecss')({
       settings: {
         animatedSpeed: 1000,
         heartBeatSpeed: 1000,
